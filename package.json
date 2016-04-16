@@ -1,6 +1,6 @@
 {
   "name": "addition-toddseller",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple Addition Module",
   "main": "addition.js",
   "scripts": {
