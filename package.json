@@ -1,0 +1,25 @@
+{
+  "name": "addition-toddseller",
+  "version": "0.0.1",
+  "description": "Simple Addition Module",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddseller/addition-toddseller.git"
+  },
+  "keywords": [
+    "Addition"
+  ],
+  "author": "Todd Seller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toddseller/addition-toddseller/issues"
+  },
+  "homepage": "https://github.com/toddseller/addition-toddseller#readme",
+  "dependencies": {
+    "tap": "^5.7.1"
+  }
+}
