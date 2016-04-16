@@ -19,7 +19,8 @@
     "url": "https://github.com/toddseller/addition-toddseller/issues"
   },
   "homepage": "https://github.com/toddseller/addition-toddseller#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "tap": "^5.7.1"
   }
 }
